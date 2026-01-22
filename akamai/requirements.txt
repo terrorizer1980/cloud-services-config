@@ -10,7 +10,7 @@ httpie-edgegrid==1.0.2
 idna==2.8
 ipaddress==1.0.22
 ndg-httpsclient==0.5.1
-pyasn1==0.4.5
+pyasn1==0.6.2
 pycparser==2.19
 Pygments==2.7.4
 pyOpenSSL==19.0.0
